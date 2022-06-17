@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/cgrageda/static/js/main.9ffb334a.js",
+    "main.css": "/cgrageda/static/css/main.768dfb24.css",
+    "main.js": "/cgrageda/static/js/main.7a34fe40.js",
     "index.html": "/cgrageda/index.html",
-    "main.9ffb334a.js.map": "/cgrageda/static/js/main.9ffb334a.js.map"
+    "main.768dfb24.css.map": "/cgrageda/static/css/main.768dfb24.css.map",
+    "main.7a34fe40.js.map": "/cgrageda/static/js/main.7a34fe40.js.map"
   },
   "entrypoints": [
-    "static/js/main.9ffb334a.js"
+    "static/css/main.768dfb24.css",
+    "static/js/main.7a34fe40.js"
   ]
 }
